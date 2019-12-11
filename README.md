@@ -6,3 +6,5 @@ cd restrict-imports-loader-example
 npm install
 npm run build
 ```
+
+You should get a bunch of errors and warnings.
